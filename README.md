@@ -45,9 +45,3 @@ To install and run this microservice locally, follow these steps:
 - **Delete a blog (protected route):** `DELETE /blog/delete_blog`
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to customize the instructions and add any additional details as needed.
